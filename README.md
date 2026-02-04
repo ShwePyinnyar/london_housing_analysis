@@ -36,4 +36,3 @@ This project analyzes London housing data, including average prices, number of h
 - All date-time operations are done using pandas `to_datetime` and `.dt` accessor.  
 - Columns `year` and `month` are created dynamically from the `date` column.  
 - Aggregations like min, max, and counts are performed using `groupby` and aggregation functions.  
-- This analysis helps to observe trends in housing prices and crime rates in London areas over time.
